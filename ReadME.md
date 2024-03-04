@@ -1,6 +1,6 @@
 # Machine Learning Trading Bot
 
-![image](../Images/14-4-challenge-image.png)
+![image](Images/14-4-challenge-image.png)
 
 
 Now, it's time to take what you've learned about machine learning and apply it to new situations. Create an algorithmic trading bot that learns and adapts to new data and evolving markets.
